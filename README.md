@@ -8,7 +8,7 @@ The model is trained in `South African language detection.ipynb`
 
 The trained model is saved in `language_detect.joblib` but due to the size limitation, it cant be uploaded on github. You will have to generate it yourself (it doesnt take long).
 
-`language_detection.py` is renders jupyter notebook widgets. The input is a sentence in any of the 11 languages and the output is the detected language. It requires the trained model to work.
+`language_detection.py` renders a jupyter notebook widgets. The input is a sentence in any of the 11 languages and the output is the detected language. It requires the trained model to work.
 
 ## Dependencies for the jupyter widgets server
 
